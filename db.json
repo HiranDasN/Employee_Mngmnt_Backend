@@ -1,0 +1,17 @@
+{
+  "employee": [
+    {
+      "Name": "Malavika",
+      "Email": "malavika@gmail.com",
+      "Gender": "Female",
+      "Dob": "2023-11-16",
+      "Designation": "IT Field",
+      "Address": "Kannur",
+      "ImageUrl": "https://imgs.search.brave.com/SPsG6jeh7eKRtQ7gWsiMoYxfuBtbOw0ktV3UFUXp9jo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zMy5m/aWxteXRvZGF5LmNv/bS9hbGJ1bXMvQm9s/bHl3b29kLzIwMjMv/Tm92LzA4L1JpdHVf/VmFybWFfTGF0ZXN0/X1Bob3Rvcy9wcm9m/aWxlXzI2ODFiNTQz/MTY4MDJlNmY3ZWI0/ODFlNGI1ZWEyNGY5/LmpwZw",
+      "Phone": "9876543210",
+      "id": 1,
+      "category": "E4 Department"
+    }
+  ],
+  "category": []
+}
